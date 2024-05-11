@@ -1,7 +1,7 @@
-NO textures/texture-01.png
-SO textures/texture-02.png
-WE textures/texture-03.png
-EA textures/texture-04.png
+NO ./src/textures/DarkAbstractBackgrounds_03.png
+SO ./src/textures/DarkAbstractBackgrounds_06.png
+WE ./src/textures/DarkAbstractBackgrounds_09.png
+EA ./src/textures/DarkAbstractBackgrounds_010.png
 
 C 91,166,
 F 224,184,144
