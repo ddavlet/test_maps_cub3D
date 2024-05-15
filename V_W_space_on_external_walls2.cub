@@ -1,7 +1,7 @@
-NO textures/random_./src/textures/DarkAbstractBackgrounds_03.png
-SO textures/random_./src/textures/DarkAbstractBackgrounds_06.png
-WE textures/random_./src/textures/DarkAbstractBackgrounds_09.png
-EA textures/random_./src/textures/DarkAbstractBackgrounds_010.png
+NO ./src/textures/DarkAbstractBackgrounds_03.png
+SO ./src/textures/DarkAbstractBackgrounds_06.png
+WE ./src/textures/DarkAbstractBackgrounds_09.png
+EA ./src/textures/DarkAbstractBackgrounds_010.png
 
 C 91,166,252
 F 224,184,144
