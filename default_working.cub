@@ -1,7 +1,7 @@
-NO ./src/textures/Bricks_08-512x512.png
-SO ./src/textures/DarkAbstractBackgrounds_06.png
-WE ./src/textures/DarkAbstractBackgrounds_09.png
-EA ./src/textures/DarkAbstractBackgrounds_010.png
+NO ./src/textures/6.png
+SO ./src/textures/2.png
+WE ./src/textures/3.png
+EA ./src/textures/4.png
 MU ./src/textures/mushr.png
 
 
