@@ -3,8 +3,9 @@ SO ./src/textures/2.png
 WE ./src/textures/3.png
 EA ./src/textures/4.png
 MU ./src/textures/mushr.png
+MU2 ./src/textures/mushr2.png
 DO0 ./src/textures/13.png
-DO1 ./src/textures/14.png
+DO1 ./src/textures/5.png
 DO2 ./src/textures/15.png
 
 F  220,100,0
