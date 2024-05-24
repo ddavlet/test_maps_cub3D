@@ -7,6 +7,9 @@ MU2 ./src/textures/mushr2.png
 DO0 ./src/textures/13.png
 DO1 ./src/textures/14.png
 DO2 ./src/textures/15.png
+PS1 ./src/textures/psy1.png
+PS2 ./src/textures/psy2.png
+PS3 ./src/textures/psy3.png
 
 
 F  220,100,0
