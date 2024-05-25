@@ -4,7 +4,6 @@ WE ./src/textures/3.png
 EA ./src/textures/4.png
 MU ./src/textures/mushr.png
 MU2 ./src/textures/mushr2.png
-MUM ./src/textures/mushr_map.png
 DO0 ./src/textures/13.png
 DO1 ./src/textures/14.png
 DO2 ./src/textures/15.png
@@ -17,7 +16,7 @@ C 225,30,0
 
         1111111111111111111111111
         1000000000110000000000001
-        10110000011100000N0000001
+        10110000011100000W0000001
         10010000000DMMM0000000001
 111111111011000001110000000000001
 10000000001100000111D111111111111
